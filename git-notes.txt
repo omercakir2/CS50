@@ -1,0 +1,6 @@
+# git add . //for adding all the files in the directory 
+# git commit -m "messages you want to attach with the commitment"
+# git push -u origin main  //for pushing all the committed files 
+
+
+
